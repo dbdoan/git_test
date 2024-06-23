@@ -1,5 +1,5 @@
 # git_test
 
 "Hello Odin!"
-"Test"
-"Test2"
+
+Practice repository for adding, commiting, and pushing files to Github via git in commandline.
